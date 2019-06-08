@@ -39,5 +39,47 @@
 ## JQUERY
 
 <p><a href="https://jquery.com/">jquery官方</a></p>
+<p><a href="http://jquery.cuishifeng.cn/index.html">jquery api在线查询手册</a></p>
+<p><a href="http://www.jq22.com/">jquery 插件库</a></p>
+<p><a href="http://plugins.jquery.com/form/">jQuery Form插件是一个优秀的Ajax表单插件</a></p>
+<p><a href="https://github.com/victorjonsson/jQuery-Form-Validator">jQuery formValidator表单验证插件</a></p>
+<p><a href="https://www.swiper.com.cn/">swiper轮播图插件</a></p>
+<p><a href="https://github.com/chengjs/rem">前端适配 rem 移动端布局插件</a></p>
+
+
+## WEB框架
+
+<p><a href="https://v4.bootcss.com/">Bootstrap4 全球最受欢迎的前端组件库</a></p>
+<p><a href="https://www.layui.com/">经典模块化前端框架layui</a></p>
+<p><a href="http://www.miniui.com/demo/#src=datagrid/celledit.html">jQuery MiniUI v3.0专业WebUI控件库</a></p>
+<p><a href="http://www.jeasyui.net/">Jquery EasyUI 美观的UI界面</a></p>
+<p><a href="http://www.ligerui.com/">LigerUI 快速开发UI框架</a></p>
+<p><a href="http://jqueryui.com/">jQuery UI框架</a></p>
+<p><a href="http://www.getuikit.net/">UIkit一款轻量级、模块化的前端框架</a></p>
+<p><a href="http://sui.taobao.org/sui/docs/index.html">SUI 是一套基于bootstrap开发的前端组件库</a></p>
+<p><a href="http://www.uileader.com/quickui_doc/">QUICK UI 4.0是基于jquery1.9开发</a></p>
+<p><a href="http://www.w3school.com.cn/jquerymobile/index.asp">jQuery Mobile 是创建移动 web 应用程序的框架</a></p>
+<p><a href="http://dev.dcloud.net.cn/mui/">MUI最接近原生APP体验前端框架</a></p>
+
+## VUE
+
+<p><a href="https://cn.vuejs.org/">vue 渐进式JavaScript 框架</a></p>
+<p><a href="https://router.vuejs.org/zh/">Vue Router 是 Vue.js 官方的路由管理器</a></p>
+<p><a href="https://vuex.vuejs.org/zh/">Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式</a></p>
+<p><a href="https://ssr.vuejs.org/zh/">Vue.js 服务器端渲染指南</a></p>
+<p><a href="https://www.kancloud.cn/yunye/axios/234845">Axios 是一个基于 promise 的 HTTP 库</a></p>
+<p><a href="https://github.com/vuejs/awesome-vue">Vue.js 资源库</a></p>
+
+## vue 框架
+
+<p><a href="https://element.eleme.cn/#/zh-CN/component/installation">element-ui</a></p>
+<p><a href="https://didi.github.io/cube-ui/#/zh-CN">Cube UI 基于 Vue.js 实现的精致移动端组件库</a></p>
+<p><a href="https://iviewui.com/">iview一套基于 Vue.js 的高质量 UI 组件库</a></p>
+<p><a href="https://vuetifyjs.com/en">Vuetify</a></p>
+<p><a href="http://yuche.github.io/vue-strap/">VueStrap 基于 Vue.js 的 Bootstrap 组件</a></p>
+<p><a href="https://buefy.org/#/">buefy 基于 Bulma 的 Vue.js 轻量级 UI 组件库</a></p>
+
+
+
 
 <p>更新中...</p>
