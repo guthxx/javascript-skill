@@ -63,7 +63,7 @@
 
 ## VUE
 
-<p><a href="https://cn.vuejs.org/">vue 渐进式JavaScript 框架</a></p>
+<p><a href="https://cn.vuejs.org/">Vue 渐进式JavaScript 框架</a></p>
 <p><a href="https://router.vuejs.org/zh/">Vue Router 是 Vue.js 官方的路由管理器</a></p>
 <p><a href="https://vuex.vuejs.org/zh/">Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式</a></p>
 <p><a href="https://ssr.vuejs.org/zh/">Vue.js 服务器端渲染指南</a></p>
@@ -72,14 +72,17 @@
 
 ## vue 框架
 
-<p><a href="https://element.eleme.cn/#/zh-CN/component/installation">element-ui</a></p>
+<p><a href="https://element.eleme.cn/#/zh-CN/component/installation">Element-ui 基于 Vue.js的UI组件库</a></p>
 <p><a href="https://didi.github.io/cube-ui/#/zh-CN">Cube UI 基于 Vue.js 实现的精致移动端组件库</a></p>
-<p><a href="https://iviewui.com/">iview一套基于 Vue.js 的高质量 UI 组件库</a></p>
+<p><a href="https://iviewui.com/">Iview一套基于 Vue.js 的高质量 UI 组件库</a></p>
 <p><a href="https://vuetifyjs.com/en">Vuetify</a></p>
 <p><a href="http://yuche.github.io/vue-strap/">VueStrap 基于 Vue.js 的 Bootstrap 组件</a></p>
-<p><a href="https://buefy.org/#/">buefy 基于 Bulma 的 Vue.js 轻量级 UI 组件库</a></p>
+<p><a href="https://buefy.org/#/">Buefy 基于 Bulma 的 Vue.js 轻量级 UI 组件库</a></p>
 
+## 前端面试题
 
+<p><a href="http://www.imooc.com/article/271528">2019前端面试题精选</a></p>
+<p><a href="https://www.jianshu.com/p/b034663019a9">2019年一些前端的面试题（含答案）</a></p>
 
 
 <p>更新中...</p>
