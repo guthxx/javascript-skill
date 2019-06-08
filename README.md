@@ -19,7 +19,7 @@
 <p><a href="http://lesscss.cn/">less的快速入门</a></p>
 <p><a href="http://stylus-lang.com/">stylus</a></p>
 <p><a href="https://www.cssworld.cn/">张鑫旭老师的《css世界》建议购买</a></p>
-<p><a href="https://github.com/Sweet-KK/css-layout">常见布局CSS实现</a></p>
+<a><a href="https://github.com/Sweet-KK/css-layout">常见布局CSS实现</a></a>
 
 
 ## JAVASCRIPT
@@ -35,5 +35,9 @@
 <p><a href="https://segmentfault.com/a/1190000011363171">JavaScript中的面向对象、原型、原型链、继承</a></p>
 <p><a href="https://www.imooc.com/learn/10">JavaScript进阶篇视频教程</a></p>
 
+
+## JQUERY
+
+<p><a href="https://jquery.com/">jquery官方</a></p>
 
 <p>更新中...</p>
