@@ -1,5 +1,5 @@
 {
-  "name": "jstutorial",
+  "name": "javascript-skill",
   "version": "0.0.1",
   "description": "前端工程师学习资料，快速查找面试题，经典技术文章的总结，编程技巧，帮助学习者快速定位问题",
   "main": "index.js",
@@ -11,6 +11,8 @@
     "url": "git+https://github.com/guthxx/jstutorial.git"
   },
   "keywords": [
+    "javascript",
+    "面试",
     "前端",
     "资料"
   ],
