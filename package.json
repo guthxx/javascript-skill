@@ -1,0 +1,23 @@
+{
+  "name": "jstutorial",
+  "version": "0.0.1",
+  "description": "前端工程师学习资料，快速查找面试题，经典技术文章的总结，编程技巧，帮助学习者快速定位问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guthxx/jstutorial.git"
+  },
+  "keywords": [
+    "前端",
+    "资料"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guthxx/jstutorial/issues"
+  },
+  "homepage": "https://github.com/guthxx/jstutorial#readme"
+}
