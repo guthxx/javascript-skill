@@ -24,7 +24,8 @@
 
 ## JAVASCRIPT
 <p><a href="https://www.jc2182.com/javascript-jiaocheng/67.html">蝴蝶教程 JavaScript编程</a></p>
-<p><a href="https://item.jd.com/10951037.html">JavaScript高级程序设计（第3版）</a></p>
+<p><a href="https://item.jd.com/10027605671213.html">JavaScript权威指南(原书第7版) </a></p>
+<p><a href="https://item.jd.com/10020926876033.html?cu=true&utm_source=c.duomai.com&utm_medium=tuiguang&utm_campaign=t_16282_139953843&utm_term=bd7ed023806242b6b61f89922aedb12c">JavaScript高级程序设计（第4版）</a></p>
 <p><a href="https://item.jd.com/40776018022.html">你不知道的JavaScript 上中下卷 JavaScript程序设计深入</a></p>
 <p><a href="https://item.jd.com/12306772.html">JavaScript忍者秘籍 第2版 John Resig 是 jQuery 之父写的书</a></p>
 <p><a href="http://es6.ruanyifeng.com/">阮一峰老师的ES6入门电子书</a></p>
@@ -71,7 +72,7 @@
 <p><a href="https://github.com/vuejs/awesome-vue">Vue.js 资源库</a></p>
 
 ## vue 框架
-
+<p><a href="https://youzan.github.io/vant-weapp/#/intro">Vant Weapp 轻量、可靠的小程序 UI 组件库</a></p>
 <p><a href="https://element.eleme.cn/#/zh-CN/component/installation">Element-ui 基于 Vue.js的UI组件库</a></p>
 <p><a href="https://didi.github.io/cube-ui/#/zh-CN">Cube UI 基于 Vue.js 实现的精致移动端组件库</a></p>
 <p><a href="https://iviewui.com/">Iview一套基于 Vue.js 的高质量 UI 组件库</a></p>
@@ -80,7 +81,7 @@
 <p><a href="https://buefy.org/#/">Buefy 基于 Bulma 的 Vue.js 轻量级 UI 组件库</a></p>
 
 ## 前端面试题
-
+<p><a href="https://www.jianshu.com/p/3507b078fe03">2021前端面试题精选</a></p>
 <p><a href="http://www.imooc.com/article/271528">2019前端面试题精选</a></p>
 <p><a href="https://www.jianshu.com/p/b034663019a9">2019年一些前端的面试题（含答案）</a></p>
 
